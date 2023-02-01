@@ -1,0 +1,27 @@
+body {
+    font-family: system-ui;
+    background: white;
+    color: black;
+    text-align: center;
+    
+  }
+  h1 {
+    font-size: 2em;
+   text-align: left;
+    color: blue;
+  }
+  h2 {
+    font-size: 4em;
+   text-align: left;
+  }
+  h3 {
+    font-size: 2em;
+   text-align: left;
+  }
+    .date {
+    float: right;
+  }
+  
+  .author {
+    float: left;
+  }
